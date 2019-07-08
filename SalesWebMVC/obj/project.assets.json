@@ -13011,23 +13011,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\data52309\\.nuget\\packages\\": {},
+    "C:\\Users\\Core\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\data52309\\source\\repos\\SalesWebMVC\\SalesWebMVC\\SalesWebMVC.csproj",
+      "projectUniqueName": "D:\\Dev\\Projetos\\ASP.NETCORE\\SalesWebMVC\\SalesWebMVC\\SalesWebMVC.csproj",
       "projectName": "SalesWebMVC",
-      "projectPath": "C:\\Users\\data52309\\source\\repos\\SalesWebMVC\\SalesWebMVC\\SalesWebMVC.csproj",
-      "packagesPath": "C:\\Users\\data52309\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\data52309\\source\\repos\\SalesWebMVC\\SalesWebMVC\\obj\\",
+      "projectPath": "D:\\Dev\\Projetos\\ASP.NETCORE\\SalesWebMVC\\SalesWebMVC\\SalesWebMVC.csproj",
+      "packagesPath": "C:\\Users\\Core\\.nuget\\packages\\",
+      "outputPath": "D:\\Dev\\Projetos\\ASP.NETCORE\\SalesWebMVC\\SalesWebMVC\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\data52309\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Core\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
